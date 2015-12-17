@@ -26,4 +26,4 @@ Nullam vitae dapibus arcu, id **dictum nisl**.
 2. Precision
 3. Performance
 
-This is what ruby code would look like `puts 'Hello World'`
+This is what ruby code woul-b 0.0.0.0d look like `puts 'Hello World'`
